@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981746824887",
+    "project_id": "jeone-6c130",
+    "storage_bucket": "jeone-6c130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981746824887:android:51ece57c1c17502734ff32",
+        "android_client_info": {
+          "package_name": "com.jeone.jinnbyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981746824887-gobn4oq9q8s40tu4ukakpiojloj7k8fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeone.jinnbyte",
+            "certificate_hash": "e3fe9a3fe261be7f654e25c6dea8ab83ccefe395"
+          }
+        },
+        {
+          "client_id": "981746824887-7qotmrildru9r8j9ff83jjebtgd5ogdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuIPMd6VXwFFhnbgFD6CWC01LPiq4AVWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981746824887-7qotmrildru9r8j9ff83jjebtgd5ogdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
